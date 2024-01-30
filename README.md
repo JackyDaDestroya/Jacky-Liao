@@ -9,7 +9,7 @@
 
 🌱 I’m currently learning **HTML, CSS, Python, Frontend Development**
 
-👨‍💻 All of my projects are available at [https://github.com/JackyDaDestroya?tab=repositories](https://github.com/JackyDaDestroya?tab=repositories)
+👨‍💻 All of my projects are available at https://shorturl.at/tZ049
 
 💬 Ask me about **Anything! Always keen to have a chat**
 
