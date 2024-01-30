@@ -5,6 +5,8 @@
 
 ## ✨ About me: 
 
+<img align="right" src="https://github.com/JackyDaDestroya/JackyDaDestroya/blob/main/Coding.png" width="300">
+
 🔭 I’m currently working on **Expense Tracker**
 
 🌱 I’m currently learning **HTML, CSS, Python, Frontend Development**
