@@ -1,3 +1,5 @@
+![I am GitHub Readme Generator's creator](https://github.com/JackyDaDestroya/Jacky-Liao/blob/main/Banner%20for%20LinkedIn.png)
+
 # Hi 👋, I'm Jacky Zheng Liao
 <h3>Passionate penultimate computer science student studying at UNSW. A strong foundation in programming and a commitment to innovation. Eager to contribute skills and enthusiasm to the dynamic field of computer science.</h3>
 
