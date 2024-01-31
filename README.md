@@ -37,7 +37,7 @@
 
 <p>
   <a href="https://github.com/JackyDaDestroya/Spellchecker">
-    <img src="https://github.com/JackyDaDestroya/Jacky-Liao/blob/main/Spellchecker.png" width="100" style="margin-right: 20px">
+    <img src="https://github.com/JackyDaDestroya/Jacky-Liao/blob/main/Spellchecker.png" width="100">
   </a>
   <a href="">
     <img src="https://github.com/JackyDaDestroya/Jacky-Liao/blob/main/IMDb.png" width="110">
