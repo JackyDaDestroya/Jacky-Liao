@@ -45,7 +45,7 @@
   <a href="">
     <img src="https://github.com/JackyDaDestroya/Jacky-Liao/blob/main/Expense%20Tracker.png" width="100">
   </a>
-  <a href="">
+  <a href="https://github.com/JackyDaDestroya/DNA">
     <img src="https://github.com/JackyDaDestroya/Jacky-Liao/blob/main/DNA.png" width="100">
   </a>
 </p>
